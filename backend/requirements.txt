@@ -1,0 +1,10 @@
+express
+mongoose
+dotenv
+cors
+jsonwebtoken
+bcrypt
+multer
+cloudinary
+multer-storage-cloudinary
+--save-dev nodemon
